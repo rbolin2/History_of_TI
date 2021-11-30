@@ -1,0 +1,57 @@
+p {
+text-align: left;
+font: times-new-roman;
+font-size: 20px;
+color: black;
+text-indent: 50px; 
+
+}
+
+
+h1 {
+font-family: Zapf-Chancery, cursive;
+text-decoration: underline;
+color: blue;
+    
+}
+
+ h4 {
+margin-bottom: 0px;
+ }
+
+
+ br {
+line-height: 1.5;
+ }
+ 
+p.note /* name of your class here */ {
+color: rgb(29,13,155);  
+line-height: 1.5;
+}
+
+
+div.notes /* name of your class here */ {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;   
+}
+
+span.orth{
+text-align:left;
+font-weight:bold;
+
+}
+  
+  span.def{
+text-align:left;
+padding-left: 100px; 
+}
+
+
+body /* if you want the background for the whole page, you should use the "body" selector */ {
+background-color: rgb(253,255,252);
+margin-right: 150px;
+margin-left: 150px;   
+    
+}

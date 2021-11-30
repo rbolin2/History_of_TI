@@ -1,0 +1,1014 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Origins of US Army Technical  Intelligence: a digital article</title>
+         	<author>Robert L. Bolih</author>
+         	<respStmt>
+         		<resp>Transcription and encoding</resp>                    
+         		<persName>Robert L. Bolin</persName>               
+         	 </respStmt>     
+         </titleStmt>
+         	<publicationStmt>
+            <p>TO Be DETERMINED</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Personal files of Assciate Professor Emeritus Robert L. Bolin, UNL Libraries.</p>
+         	<p>Documents available online in the University of Nebraska-Lincoln, Digital Commons.</p>
+         	<p>Government documents available online through the WorldWideWeb.</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+  	<front>
+  		<div>
+  			<p>The Origins and Evolution of Army Technical Intelligence
+  			<lb/>Robert L. Bolin, Associate Professor Emeritus, University of Nebraska-Lincoln
+  			<lb/>November 2021
+  			</p>		
+  		</div>    
+  		
+  		<div>
+  			<head>Summary</head>
+  			
+  			<p>Technical intelligence is intelligence about the weapons and equipment of foreign armies.  At the beginning of World War II, the the US Army had no technical intelligence organizations, procedures, or apparatus.</p>
+  			<p>Shortly before World War II, the commanding generals of the Army Technical Services were instructed to set up intelligence sections in their offices. During the war, those sections grew into small, effect specialized technical intelligence agencies.   After the war those organizations continued to function. </p>
+  			<p>During the Cold War, Army technical intelligence organizations expanded dramatically and were reorganized radically. Eventually several Army technical intelligence activities were nationalized becoming key part of the Defense Intelligence Agency. </p>
+  		</div>
+
+  	
+  <div>
+  	
+  	
+  	
+  	<!-- QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ  Put   TOC  Here QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ -->
+  	
+  	
+  	
+  	
+  </div>
+  	
+  	
+    	</front>	
+  	
+  	
+  	
+  	
+           <body>
+           		<div>				
+				<head>Introduction</head>		
+						<p>Technical intelligence is the branch of military intelligence that is concerned with the weapons and equipment of foreign armed forces.  However, intelligence is not just an idea. The idea must be backed with  an organization staffed with experts, as well as a competent technical and administrative staffs. Those organizations must collect, collate, and file information of interest to the organization and request that intelligence collections organizations gather more useful information.  The experts are available to answers posed by decision makers in the army and the national government.  The staff of the organization prepares reports on appropriate topics either by request or in a systematic fashion.  That bureaucracy is an intelligence organization. </p>							
+						<p>At the beginning of World War II, the US Armed Forces were small and weak.  They had inadequate personnel, weapons, equipment, and intelligence.  The intelligence section of the Army General staff  supported by military attaches in countries around the world had limited information and the Corps of Engineers had considerable expertise in preparing and producing maps.   However, the army had no organizations that could provide technical intelligence, intelligence about the production of military materiel and supplies in foreign countries, intelligence about beaches and coral reefs, intelligence about foreign ports and harbor facilities, intelligence about foreign civilian and military communication facilities and power grides, intelligence about foreign rail, road, and water transportation networks, or intelligence about medical and sanitary conditions aeround the world.  </p>
+           					<p>Shortly before World War II, the Army Technical Services were instructed to set up intelligence offices in the offices of the commanding generals.  During World War II and the early Cold War, those organizations grew into vibrant, effective intelligence organizations providing a wide range of technical and geographical intelligence. During the 1940s and 1950s, one major difficulty was that seven separate organizations were producing that intelligence.  Coordinating the activities of numerous small organizations was difficult.  A major tension within the army was that the General Staff which planned and supervised rhe acivities of the army did not control the intelligence organizations they depended on.</p>
+           					<p>In 1962, under the leadership of Secretary of Defense Robert McNamara, the army was radincally reorganized and the technical and goegraphical intelligence organizations were consolidated.  Since then he trend has been for technical intelligence organizations to grow.  Several have been nationalized becoming subsidiaries of the Defense Intelligence Agency.</p>
+<!-- QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ  Add a hover note about the book From Root to McNamara  QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ  -->          			
+           					<p>The Chronology  below documents the evolution of Army technical intelligence from shortly before World War II. It is based an extensive collection of linked documents and records. It shows how technical ingtelligence became real with a bureaucracy to support it. </p> 						
+           					<p> This is an administrative history.  It will not discuss the accomplishments of technical intelligence organizations.</p>           			
+ <!-- QQQQQQQQQQQQQQ  Add a hover note explaining some sources of info about the accomplishments QQQQQQQQQQQQQQQQQQQQQQQQQQQ -->         
+           			
+						<note>A note on important terms.<lb/> 						
+						<p>Although a glossary is included below, it will be useful to clarify some terms early because the organization of the army changed so radically in 1962, persons familiar with the army from the Vietnam War era to today+++, probably would find some of the terms used alien. </p>
+						<p>A number of the documents cited make reference to the “Supply Arms and Services.”   The Supply Arms and Services were bureaus that supplied the army with weapons, equipment, and various services.  At the beginning of World War II, The "Services of Supply" were: 
+						<list>
+						   	<item>The Medical Department headed by the Surgeon General</item>
+						   	<item>The Chemical Warfare Service headed by the Chief of the CWS</item>
+							<item>The Corps of Engineers headed by the Chief of Engineers</item>
+							<item>The Signal Corps headed by the Chief Signal Officer</item>
+							<item>The Ordnance Department headed by the Chief of Ordnance</item>
+							<item>The Quartermaster Corps headed by the Quartermaster General</item>
+						</list>
+						In 1942, a new technical service, the Transportation Corps headed by the Chief of Transportation, was created.<lb/>		
+						During World War II, the Services of Supply came to be known as the “Technical Services.”    <lb/>
+						I will use the term "Technical Services" when referring to those organizations. </p>
+						</note>
+			</div>
+                   				
+           <!-- 
+           QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ  CHRONOLOGY QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+           -->				
+           				  <div>
+					  <head>Chronology</head>
+           				  	
+           				  	<div>
+           				  		<head>1940</head>
+           				  	
+           					<list>       
+    <!-- 1940 -->       						
+           						<item>        							
+           							On 6 September 1940, the <ref target="#adjutant">  Adjutant General of the War Department </ref>           								
+           							 issued a letter entitled, “Intelligence Sections in the <ref target="#Ofice_of_the_Chief">Offices of the  Chiefs</ref>of Arms and Services.” <lb/>
+								That letter was addressed to chiefs of the Army Technical Services, as well as a number of other organizations. It stated that:<lb/>
+           							
+								"An Intelligence Section in the Offices of Chiefs of Arms and Services will be established and maintained for the following purposes:     
+								<list>
+										<item>
+											1.  The Military Intelligence Division, War Department General Staff, receives and disseminates foreign military information  of a comprehensive nature. It sends out information bulletins of various kinds and maintains digests and estimates on foreign countries. It recognizes that in principle, only the user knows what information he wants, and only when it reaches the user is such information of any value. But the Division does not always know what information is wanted by those agencies which can use it, nor can it in all cases disseminate information directly to those agencies. </item>
+										<item>
+											2  An essential link in the intelligence chain is, therefore, a section in the office of the Chicf of Arm or Service which can receive, collate and pass on to M.I.D. requests for information wanted  by the using agencies of that Arm or Service, and can disseminate to those agencies information which M.I.D. obtains: The needs of the Arms and Services' frequently include technical questions that can be stated intelligently'only by a specialist </item>
+										<item>
+											3. Requests for information will be digested and collated by the intelligence sections of the Arms and Services before being passed on to M.I.D. The former will make sure that such requests do not cover information already received or available to  them. They will also be responsible that all information received or available is disseminated to all agencies of their Arm  or Service which might have use for it."	</item>
+								</list>           								
+           									The rest of the letter gives instructions for handling classified information.     
+								<list>
+									<item>This letter was considered the charter of the technical intelligence organizations within the Army Technical Services because it  instructed those organizations to assign personnel to intelligenc functions, to begin collecting files and to disseminate intelligence.  Other responsibilities were given those intelligence sections during the war.</item>
+									<item>This letter was probably of most immediate impact on the Air Corps because it authorized the “Chief of Air Corps” to set up an intelligence section. Before that, the Air Corps was officially expected to rely on the Intelligence Section of the Army General Staff to serve Air Corps intelligence needs.</item>
+								</list>
+					<ref target="https:/digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1163&#38;context=usarmyresearch">Adjutant General's Letter, Sept 6, 1940</ref> is available online in the UNL Digital Commons.<lb/>
+           						</item>
+           						
+           						<item>
+           							One 22 July 1940, the War Departrment issued Field Manual FM 30-15, Examination of Enemy Personnel, Repatriates, Documents, and Matgeriel. <lb/>
+           							Section V, "Captured Materiel, " four brief paragraphs, set forth the Army policy concerning what came to be known as "technical Intelligence" the start of World War II:<lb/>
+           							"The adoption of a new and improved weapon, type of ammunitiom, or artricle of equipment by the enemy may have an influence upon tactics and the course of development or improved  of our own means of defense or attack .Therefore, provision will be made for trhe assemblh and test of new equipment or materiel encountered in the course of operations...The collection and study of captured materiel is an intelligfence function of the supply arms and services."  The remainder of the secfion states thaft aviation related equipment is to be given special treatment and that prisoner specialists should be used to help study captured materiel.<lb/>
+           							That brief section provided little guidance to commanders and technical service personnel in the field.
+           							<ref target="https://digitalcommons.unl.edu/dodmilintel/115/">FM 30-15, 1940</ref> is available online in the UNL Digital Commons.      	
+           						</item>
+           					</list>
+           			</div>
+ 				
+           			<div>
+ 					<head>1941</head>
+ 						<list>
+ 							<item>
+ 								According to a textbook used in the Medical Field Service School, <ref target="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1058&#38;context=dodmilintel">ST 8-30-1, Medical Intelligence, 1951</ref>, in June 1941 the <ref target="#OTSG">Office of the Surgeon General</ref>established a medical intelligence unit <hi>"to collect, analyze, evaluate, and disseminate, medical and sanitary data on foreign countries." </hi> p. 10.	
+ 								The medical intelligence section in the Office of the Surgeon General was very active. Within a few years the army had published a series of War Department Technical Bulletins on the "Medical and Sanitary Data" for many countries and areas in the world.  Eventually, Army Medical Department officers  associated with the medical intelligence section in the Office of the Surgeon General coauthored a series of volumes called "Global epidemiology" with the subtitle "a geography of disease and sanitation"  published commercially by William Heineman, Limited, in London.	
+ 							</item>
+ 						</list>
+ 				</div>
+ 					       	
+				<div>
+						<head>1942</head>
+						
+           				  		<list>	
+           				  		<item>
+           				  			After Pearl Harbor, officers in the Corps of Engineer began thinking about how the Corps an contribute to the war effort besides providing weapons, equipment, and combat troops and units. Based on recommendations from engineer officers, the Chief of Engineers ordered the Beach Erosion Board (BEB) to prepare a "Landing Area Report" on the Normandy Coast. That was completed in July 1942 and brought the Beach Erosion Board to the attention of the Chiefs of Staff. It lead to the BEB being instructed to begin to study potential landing beaches and to product reports on them. Before the end of war, that became a major effort involving cooperation with various other federal agencies. This is according to <ref target="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1027&#38;context=watercenterpubs">The History of the Beach Erosion Board ... 1930-63 by Mary-Louise Quinn</ref>. p. 43.  After the war, the BEB continued to create intelligence reports and maps.
+           				  		</item>	
+           				  			
+           				  		<item>
+           				  			In 1942, the Board of Engineers for Rivers and Harbors (BERH), a civil works agency concerned with ports and harbors in the Corps of Engineers, was asked to provide <hi>"military reports for use in staff planning for ports and terminals facilities at foreign ports."</hi>   In response, the Chief of Engineers established a Foreign Ports Branch in the Statistical Division in the BERH in Auigust 1942 according to “Statistical Division,” a section in <ref target="https://usace.contentdm.oclc.org/digital/collection/p16021coll4/id/32">A History of the Board of Engineers for Rivers and Harbors</ref>. p. 126.
+           				  		</item>
+           				  			
+           						<item>
+           							On 19 August 1942, the <ref target="#Chief_of_ Ordnance">Chief  of Ordnance</ref>           							
+           							  issued Ordnance Department Order 327, "Procedure for handling Ordnance Materiel Received in This Country for Information."
+           							That order provided that the Ordnance Intelligence Unit, Technical Division, Office of the Chief of Ordnance was responsible for deciding what to do with captured materiel shipped to this country for study; that captured materiel should be shipped to  Aberdeen Proving Ground, MD; and that information learned from study of the materiel be filed and distributed.
+           							<note>This order has the same form as a general order.  It is listed among the General Orders in the Bibliography below. </note>
+           							<ref target="//https:digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1056&#38;context=dodmilintel">Ordnance Department Order 327, August 19, 1942</ref> is  available online in the UNL Digital Commons. 
+           						</item>
+           						           						
+           						<item>
+	           						On October 23, 1942, the War Department issued <ref target="#Memo">Memorandum</ref>          					
+		           					WD Memo W570-1-42, October 23, 1942.	
+		  						This directive was intended to facilitate the prompt and effective shipment of captured weapons and materiel to the United States.
+		           					<ref target="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1114&#38;context=dodmilintel">WD Memo W570-1-42, October 23, 1942</ref>
+		           				</item>		
+           						
+           						<item>
+           					              	On November 6, 1942, the War Department issued <ref target="#TC">Training Circular [TC]</ref>						
+           					              	81, November 6, 1942. <lb/>
+           					              	Section II. "Processing Captered Materiel for Intelligence Purposes" superseded parts of FM 30-15, 1940, and a number of other Field Manuals previously issued and became the basic policy of the War Department concerned captured enemy materiel for the remainder of the war.  <lb/>         					              
+           								It provided that "there are foun major objerctives to be obtained in the proper handling of captured  materiel for intelligence purposes:
+           								<list>
+           									<item>Prompt development of effective counterweapons and counter-tactics. </item>
+           									<item>Prompt exploitation of new ideas for our own benefit</item>
+           									<item>Early deductions as to the state of enemy resources for war.  </item>
+           									<item>Speed in providing literature and other aids to assist in the training of United Nations troops in the use and maintenance of enemy eauipment when captured in sufficient quantity. "</item>           									
+           								</list>
+           							           <lb/>
+           								The TC describes the resposibilities of troops and staff officers in the field for returning new  enemy materiel to the US for analysis. 
+           								<lb/>
+           								The chiefs of the technical services were required to  provide expert technical analysis, draw conslusions about enemy resources for war based on analysis, for preparing operating and technical manuals comparable to US manuals for similar American equipment, and for preparation of visual aids which may be required. <lb/>
+           								The instructions to prepare manuals comparable to US manuals resulted in the publicaton of a number of interesting manuals on enemy equipment such as TM E9-369A., 29 June 1943 on the German 88mm antiaircraft gun, TM E9-803, June 1944, on the German Type 82 Volkswager use by the German armed orces, TM E9-325A, German 105-MM Howitzer Materiel, 15 June 1944, and TM E9-228, 2-CM Flakvierling 38 (German 20-MM antiaircraft gun, four-barreled mount, April 1, 1943  The "E" in the manual number distinguished the manual from similarl manuals for comparable US equipment.<lb/>
+           							<ref target="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1170&#38;context=usarmyresearch">Sec II, TC 81, 6 Nov 1942</ref>
+           					              </item>
+           				  		</list>
+						
+           					</div>
+
+           					<div>
+           						<head>1943</head>
+           						
+           						<list>				          						
+	           						<item>
+		           						On 22July 1943 the War Department issued <ref target="#Memo">Memorandum</ref>		           						
+		           						No W570-2-1945, '"Shipment of Captured Materiel to the United States for Intelligence Purposes," 22 July 1943..<lb/>
+		           						That memo superseded Memo W570-1-43, 7 April 1943.<lb/>	           			
+		           						The new memorandum contains much more detail than the preceeding memo including addresses for shipment of materiel to the technical services and Army Air Forces technical intelligence as well as detailed descriptioins of the types of materiel sought for analysis.
+	           						</item>
+						</list>
+					</div>	
+
+					<div>
+						<head>1944</head>
+						<list>
+	           						<item>
+	           							On 13 March 1944, the War Department issued <ref target="#Cir">Circular</ref>	           							
+	           							104, Shipment of Captured Materiel to the United State for Intelligence Puropses, 13 March 1944. <lb/>
+	           							That circular superseded WD Memo W570-2-19545, 22 July 1943. It provided detailed information about what equipment was required for analysis, and where to ship it. It contained much more specific information about enemy aircraft-related materiel required.
+	           						</item>    
+						</list>	
+			       		</div>
+                				
+           				<div>
+						<head>1945</head>		
+			           			<list>		
+	           						<item>
+	           								On 11 January 1945, the War Department issued <ref target="#Circ">Circular</ref> 		           							
+	           								13, Shipment of Captured Materiel to the United States for Intelligence Purposes, 11 January 1945.          								 
+	           								<lb/>          
+	           								The circular provides detailed instructions about handling captured equipment.  It gives detailed lists of  the types of equipment required by the various technical services and by Army Air Forces technical intelligence.  It gives the addresses for the shipment from the various theaters of war. 
+	           						</item>
+			           			</list>	
+           				   </div> 		
+           				
+           				  <div>
+						<head>1948</head>		
+			           			<list>		
+	          				  			<item>
+	          				  				When US national intelligence was reogranized and the Central Intelligence Agency was established, the National Intelligence Survey was created as a means of organizing strategic intelligence. Since there was no agency capable of providing strategic intelligence about communications and electrical systems,  <hi>"the Signal Corps was selected to prepare strategic surveys on commercial communications systems and equipments, tactical surveys in much greater detail on those commercial facilities, and military surveys on the military systems and equipments."</hi>  This is according to <ref target="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1064&#38;context=dodmilintel">Chester A. Hall, Jr. Signal Corps Technical Intelligence: a Brief History, 1940-1948</ref>, p. 29.
+	          				  			</item>
+	          				  		</list>	
+           					</div>
+    
+       					<div>
+						<head>1949</head>		
+			           			<list>		
+							<item>
+	           							On 18 August 1949, the Army published <ref target="#DA_GO"> Department of the Army General Orders</ref> 39, 18 August 1949.  Section IV, "Signal Corps Intelligence Agency," established the SCIA as a <ref target="#Class_II">Class II activity</ref><note type="hover" xml:id="Class_II"><hi>"Military installations within the United States under the command of a chief of technical or administrative service, or a head of a General or Special Staff Office, United States Army."</hi> SR 320-5-1, Dictionary of United States Army Terms, 24 November 1953.</note> under the control of the <ref target="CSO">Chief Signal Officer</ref>.<note type="hover" xml:id="CSO">The Chief Signal Officer was the general in charge of the Army Signal Corps  from the 1860's to the 1960s</note>
+	           							This order converted the intelligence section in the Office of the Chief Signal Officer into a small, specialized intelligence agency with its own commanding officer who reported to the Chief Signal Officer.
+	           							<cit><ref target="https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/go4939.pdf">DA GO 39,  1949</ref></cit>	
+	           						</item>
+           						</list>
+           					</div>
+           				  	
+           				  	<div>
+						<head>1953</head>		
+			           			<list>		
+							<item>
+								On 29 June 1953, the Army issued Field Manual 30-16, "Technical Intelligence," 1953.<lb/>
+								That was the first manual describing technical intelligence in detail. It represented a distilation of knowledge and practice from
+								World War II and the Korean War.   This manual describes technical intelligence in great detail. 
+								<cit><ref target="file:///C:/Users/Owner/AppData/Local/Temp/FM%2030-16%20Technical%20Intelligence%2029%20June%201953.pdf">FM 30-16, 1953</ref></cit>
+								
+							</item>
+			           			</list>
+           				  	</div>
+           				  	
+           				  	<div>
+						<head>1954</head>		
+			           			<list>		
+							<item>
+	           							On 15 August 1954, the Army published <ref target="#DA_GO"> Department of the Army General Orders </ref> DA GO 63, 1954.  Section II, "Transportation Intelligence Agency," established the TIA as a <ref target="#Class_II">Class II activity</ref>under the control of the Chief of Transportation.
+	           							This order converted the intelligence section in the Office of the Chief of Transportation into a small, specialized intelligence agency with its own commanding officer who reported to the Chief of Transportatioi..
+	           							<cit><ref target="https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/go5463.pdf">DA GO 63, 1954</ref></cit>	
+	           						</item>
+			           			</list>
+           				  	</div>
+					 
+           				  	<div>
+						<head>1955</head>		
+			           			<list>		
+							<item>
+	           							On 16 March 1955, the Army published <ref target="#DA_GO"> Department of the Army General Orders </ref>DA GO 22, 1955.  Section I, "Quartermaster Intelligence Agency," established the QMIA as a <ref target="#Class_II">Class II activity</ref>under the control of the <ref target="#QMG">Quartermaster General</ref>.
+	           							This order converted the intelligence section in the Office of the Quartermaster General into a small, specialized intelligence agency with its own commanding officer who reported to the Quartermaster General..
+	           							<cit><ref target="https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/go5522.pdf">DA GO 22, 1955</ref></cit>	
+	           						</item>
+			           				
+			           				<item>
+	           							On 15 April 1955, the Army published <ref target="#DA_GO">Department of the Army General Orders</ref> DA GO 27, 1955.  Section II, "Chemical Corps Intelligence Agency," established the Chemical Corps Intelligence Agency as a <ref target="#Class_II"> Class II activity</ref>under the control of the <ref target="#CCO">Chief Chemical Officer</ref>.<note type="hover" xml:id="CCO">The Chief Chemical Officer was the head of the Chemical Corps. </note>
+	           							This order converted the intelligence section in the Office of the Chief Chemical Officer into a small, specialized intelligence agency with its own commanding officer who reported to the Chief Chemical Officer..
+	           							<cit><ref target="https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/go5527.pdf"> DA GO 27, 1955</ref></cit>	
+	           						</item>
+			           				
+			           				<item>
+			           					On 12 October 1956, the Army published Field Manual FM 55-8, "Transportation Intelligence," 1956.<lb/>
+			           					This was the first field manual on this subject. <lb/>
+			           					<cit><ref target="https://digitalcommons.unl.edu/dodmilintel/54/">FM 55-8, 1956</ref></cit>
+>			           				</item>
+			           				
+           						</list>
+           					</div>
+           				  	
+           				  	<div>
+						<head>1956</head>		
+			           			<list>		
+								<item>
+	           							On 24 September 1956, Walter Reed Army Medical Center published a <ref target="#GO">General Orders</ref>WRWMC General Order 62,  "Medical Information and Intelligence Agency," 1956 established the MIIA as a <ref target="#Class_II">Class II activity</ref> under the control of Walter Reed Army Medical Service.  This order converted the intelligence section in the Office of the Surgeon General of the US Army into a small, specialized intelligence agency with its own commanding officer who reported to Walter Reed Army Medical Center. <cit><ref target="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1166&#38;context=usarmyresearch">WRAMC, GO 62, 1956</ref></cit>
+								Within a few months the MIIA was made subordinate to  The Surgeon General rather than the commander of Walter Reed AMC. 			
+								
+	           						</item>
+           						</list>           
+           				  	 </div>
+           				  	
+           				  	<div>
+						<head>1957</head>		
+			           			<list>		
+			           				
+			           				<item>
+	           							On 21 February 1957, the Army published <ref target="#DA_GO">Department of the Army General Orders</ref> DA GO 10, 1957,  Section IV, "Redesignation of Chemical Corps Activities"  changed the name of the Chemical Corps Intelligence Agency to the US Army Chemical Corps Intelligence Agency. 	<cit><ref target="https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/go5710.pdf"> DA GO 10, 1957</ref></cit>	
+	           						</item>
+			           				
+			           				<item>
+	           							On 1 March 1957, the Army published <ref target="#DA_GO">Department of the Army General Orders</ref> DA GO 11, 1957,  Section I, "Redesignation of Transportation Corps Activities"  changed the name of the Transportation Intelligence Agency to the US Army Transportation Intelligence Agency. <cit><ref target="https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/go5711.pdf"> DA GO 11, 1957</ref></cit>	
+	           						</item>
+			           				
+			           				
+							<item>
+	           							On 27 August 1957, the Army published <ref target="#DA_GO">Department of the Army General Orders</ref> DA GO 44, 1957,  Section I, "Ordnance Technical Intelligence Agency," established the OTIA as a <ref target="#Class_II"> Class II activity</ref>under the control of the <ref target="#CoO">Chief of Ordnance</ref>.<note type="hover" xml:id="CoO">The Chief of Ordnance was the general in charge of the Ordnance Corps.	</note>
+	           							This order converted the intelligence section in the Office of the Chief of Ordnance into a small, specialized intelligence agency with its own commanding officer who reported to the Chief of Ordnancel. 
+	           							<cit><ref target="https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/go5744.pdf"> DA GO 44, 1957</ref></cit>	
+	           						</item>
+			           	                      </list>
+           				  	</div>
+           				  	
+           				  	<div>
+						<head>1958</head>		
+			           			<list>		
+							<item>
+	           							On 29 April 1958, the Army published <ref target="#DA_GO"> Department of the Army General Orders </ref> DA GO 14, 1958,  Section II, "U S Army Signal Intelligence Agency, Arlington, Virginia" announced  the relocation of the Signal Corps Intelligence Agency to Arlington Hall Station, a base just south of Washington, DC.  Apparently, the word "Corps" was left out ot the title of the section by accident. <cit><ref target="https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/go5814.pdf"> DA GO 14, 1958</ref></cit>	
+	           						</item>
+			           	                      </list>
+           				  	</div>
+           				  	
+           				  	
+           				  	<div>
+						<head>1960</head>		
+			           			<list>		
+							<item>
+							According to a Historical Data card for the  
+						<ref target="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1035&#38;context=dodmilintel"> "US Army Tech Intel Field Agency, ACSI"</ref>
+							from the Army Institute of Heraldry, effective 5 November 1960, The Technical Intelligence Field Agency (TIFA) was organize by a directive from the 									Deputy Chief of Staff for Personnel.  The TIFA was a "Special Field Activity" assigned to the Assistent Chief of Staff for Intelligence (ACSI).  The  TIFA was created to allow the intelligence section of the Army General Staff (ACSI) to coordinate the activities of the various technical service  intelligence agencies. 								
+	           						</item>
+			           	                      </list>
+           				  	</div>
+           				  	
+           				  	<div>
+						<head>1962</head>		
+			           			<list>		
+			           				<item>
+			           					On 4 May 1962, the Army published <ref target="#DA_GO"> Department of the Army General Orders </ref> DA GO 23, 1962,  Section II, "U S Army Materiel Command, Washington, DC" established  the Army Materiel Command (AMC) as a "major command of the Department of the Army" effective 8 May 1962.
+			           					<cit><ref target="https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/go6223.pdf"> DA GO 23, 1962</ref></cit>	
+			           				</item>
+			           				
+			           				<item>
+			           					On 18 May 1962, the Army published Department of the Army Reorganization Planning Directive 381-2. "Technical, Area Analysis, and Order of 
+Battle Intelligence Production," 18 May 1962. The directive provided that the  "...functions,   resources,  and responsibilities identified  with production of technical, area analysis, and  order of battle intelligence within the Department of the Army will be reassigned ,,,"  It provided for the creation of the Foreign Science and Technology Center in the Army Materiel Command to produce technical intelligence and the creation of the Area Analysis Intelligence Agency within the Corps of Engineers to produce area analysis intelligence.  The intelligence responsibilities of the Surgeon General were not to be altered. 
+It also provided that some functions and resources could be transferred to the Defense Intelligence Agency at some unspecified time.  <cit><ref target="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1168&#38;context=usarmyresearch">  DARPD 381-1, 1962 </ref></cit>  is available online in the UNL Digital Commons. 
+			           				</item>
+			           				
+			           				<item>
+			           					On 25 July 1962, the Army published <ref target="#DA_GO"> Department of the Army General Orders </ref> DA GO 46, "Tramsfers of Instillations and Activities to the US Army Materiel Command," 25 July 1962,   Effective 1 August 1962, the AMC was activated and numerous organizations reporting to the Chiefs of the Army Technical Services, including the technical service intelligence agencies (except for the Medical Information and Intelligene Agency) were transferred to it. 
+			           					<cit><ref target="https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/go6246.pdf"> DA GO 46, 1962</ref></cit> is available online from the Army Publications Directive. 
+			    
+			           				</item>
+			           			
+			           				<item>
+			           					On 26 July 1962, the Army published <ref target="#DA_GO"> Department of the Army General Orders </ref> DA GO 47,   26 July 1962,   Section I, "US Army Area Analysis Intelligence Agency,"  Effective 27 July 1962, the AAIA was established as a Class II activity under the juristiction of the Chief of Engineers.  The Historical Data card states:<lb/>
+"US Army Area Analysis Intelligence Agency is ESTABLISHED with Hq at the Army Map Service, 6500 Brooks Lane, Washington 25, DC as a separate agency, ASSIGNED to Chief of Engineers, all effort and projects in the field of area analysis intelligence now being performed in the Army Map Service, Board of Engineers for Rivers and Harbors and the Beach Erosion Board are ASSIGNED to US Army Area Analysis Intelligence Agency effective 27 Jul 1962,"  Office of the Chief of Engineers, GO 15, 25 Jul 1962.
+			           					<cit><ref target="file:///C:/Users/Owner/AppData/Local/Temp/ARN22248_go6247_FINAL.pdf"> DA GO 47, 1962 </ref></cit> is available online from the Army Publications Directive. 
+			           				</item>
+           	<!-- QQQQQQQQQQQQQQQQQQQQQQQQQQQQ  Find the Historical data card and put it in the Digital Commons so that you can link to it QQQQQQQQQQQQQQQQQQQQQQQQQQ -->			  	<!-- QQQQQQQQQQQQQQQQQQQQQQQQQQQQ  Add appropriate hover notes to the entry above.  QQQQQQQQQQQQQQQQQQQQQQQQQQ -->	
+			           							           				
+			           				<item>
+			           					On 27 September 1962, the Army published <ref target="#DA_GO"> Department of the Army General Orders </ref> DA GO 57,  1962,   Section VIII, "US Army Foreign Science and Technology Center,"  Effective 1 August 1962, the FSTC was established as a Class II activity under the juristiction of the Army Materiel Command. The "functions, personnel, and eguipment" of the following technical service intelligence agencies were absorbed by FSTC:
+			           					<list>
+			           						<item>The US Army Chemical Corps Intelligence Agency</item>
+			           						<item>The US Army Ordnance Technical Intelligence Agency</item>
+			           						<item>The US Army Signal Corps Intelligence Agency</item>
+			           						<item>The US Army Transportation Intelligence Agency</item>
+			           						<item>The US Army Quartermaster Intelligence Agency</item>
+			           					</list>
+			           					<cit><ref target="https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/go6257.pdf"> DA GO 57, 1962 </ref></cit> is available online from the Army Publications Directive. 
+			           				</item>
+			           				
+			           			</list>
+            				  	</div>
+           				  	
+           				  	<div>
+						<head>1963</head>		
+			           			<list>		
+			           				<item>	
+			           					On 19 March 1963, the Army published <ref target="#DA_GO"> Department of the Army General Orders </ref> DA GO 12,  1963,   Section I, "US Army Area Area Intelligence Agency."  That order announced that effective 5 March 1963, the AAIA had been "discontinued as a Department of the Army Activity.".  In other word, after a period of consolidation of "area intelligence" assets from various Army organizations, the AAIA was transferred into the Defense Intelligence Agency.
+			           					<cit><ref target="https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/go6312.pdf"> DA GO 12, 1963</ref></cit> is available online from the Army Publications Directive. 
+	
+			           				</item>
+           				  		
+			           			</list>
+           				  	</div>
+           				  		
+           				  		
+           				  		
+           				  		
+
+					
+           				  
+
+
+			           	<!-- QQQQQQQQQQQQQQQQQQQQQQ  CONCLUSIONS QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ -->
+  
+	           				<div>
+	           					<head>Conclusions</head>           					
+	           					<p>
+	           						When World War II  began, the army had very little information about enemy weapons and equipment.   Many assumptions about the inferority of enemy equipment proved disastrously wrong.  The urgent need to gain intelligence about enemy weapons and equipment became apparent.    Since...
+	           					</p>    
+	           				</div>		
+           				  </div>	
+           				  		
+           	   </body>
+  	
+						<!-- QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ    GLOSSARY   QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ -->
+  	
+               <back>
+  		
+  			<head> Glossary</head>
+  			
+  			<div>
+  				<head>A</head>  			
+		  			<entry>
+		  				<form>
+		  					<orth>Adjutant General</orth>
+		  				</form>
+		  				<def>
+		  					The adjutant of an army organization is the senior administrative officer of the organization.  Over time adjutants have had many duties and functions.  One important function of the adjutant is to formulates the wording and authenticates orders. The Adjutant General of the War Department authenticated orders of the Chief of Staff, the senior military officer, or of the Secretary of War, the head of the department. The duties adjutants with respect to orders are described in <ref target="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1007&#38;context=usarmytrain">Orders, 6th Edition, March 26, 1943</ref> p. 2-6.
+		  				</def>
+		  			</entry>	
+  				
+  					<entry>
+  						<form>
+  							<orth>Army Service Forces (ASF)</orth>
+  						</form>
+  						<def>
+  							Early 1942, the US Army in the continental United States was reorganized into threr large commands reporting to the Army Chief of Staff.
+  							<list>
+  								<item>Army Air Forces</item>
+  								<item>Army Ground Forces</item>
+  								<item>Army Services of Supply, which was renamed Army Services Forces shortly after it was founded. </item>
+  							</list>
+  							According to <ref target="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1001&#38;context=usarmyadmin">Service Forces Manual M301, 1943</ref>:<lb/>
+  							<hi>"The mission of the Army Service Forces is to develop, design, manufacture, or otherwise procure, transport, store, distribute,-issue, maintain, repair, and salvage all military supplies and equipment (other than those peculiar to the Army Air Forces)* for the Army and, to some extent, for other United ·Nations; to provide military personnel for the Army and civilian personnel for administrative duties; to train personnel for service units of the Army Servioe Forces and for the Army Ground Forces and Army Air Forces upon request; to transport men and supplies by rail and water; to provide necessary services for the Army, including administrative,  	financial, legal, judicial, internal security, and statistical services; to provide for the shelter, health, and welfare of Army personnel; to construct new facilities and to provide fixed communication services to the Army."</hi> p. 101.00.<lb/>
+		  					The chiefs of the Technical Services reported to the Commanding General of the Army Service Forces.:
+	  							<list>
+									<item>The Army Medical Service</item>
+	  								<item>The Ordnance. Department</item>
+									<item>The Chemical Warfare Service</item>
+									<item>The Corps of Engineers.</item>
+									<item>The Quartermaster Corps.</item>
+									<item>The Signal Corps.</item>
+									<item>The Transportation.Corps</item>
+								</list> p. 102.00<lb/>
+  							There are entries for each of the technical serivce in this glossary. 	
+  						</def>
+  					</entry>		
+	  		</div>
+               	
+               	<!-- QQQQQQQQQQQQQQQQQQQQQ  Add an entry on the Beach Erosion Board QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ -->
+              
+               		<div>
+               			<head>C</head>
+               			
+               		<entry>
+               			<form>
+               				<orth>Chemical Warfare Service (CWS)</orth>
+               			</form>
+               				<def>
+               					The Chemical Warfare Service was one of the Technical Services.  The Chief of the CWS was the commanding general of the CWS.  The headquarters of the CWS was the Office of the Chief of the CWS in Washington, DC.  The CWS was renamed the Chemical Corps in 1946.
+               					<list>
+							<item>
+								[1943] The mission of the Chemical Warfare Service was describe as <hi>"[t]o develop, procure (manufacture and purchase) and supply to the Army all chemical weapons, materiel and equipment used by the various arms and services, and to procure articles designated in procurement lists approved by the Commanding General, Army Service Forces; to formulate and develop tactical doctrine for Chemical Warfare Service in accordance with War Department doctrine; to promulgate training doctrine and prepare necessary publications for the employment, instruction and training of the Chemical Warfare Service and for the care and use of chemical materiel and equipment; to prepare mobilization plans for Chemical Warfare Service and service annexes to all specific war plans; to act as technical advisor to the Chief of Staff in all matters pertaining to the mobilization of the Chemical Warfare Service. The major types of items procured by the Chemical Warfare Service are smoke and incendiary materials, toxic gases, chemical weapons and munitions, rear area smoke appliances, chemical agents, chemicals, ceramics, gas masks and components, protective fabrics and materials, and other chemical warfare supplies and equipment including chemical plant equipment, tools, jigs, dies, manufacturing aids, and machines for Chemical Warfare Service manufacturing activities."</hi> <ref target="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1001&#38;context=usarmyadmin">Service Forces Manual M301, 1943</ref> p. 304/00.
+							</item>          
+               						<item>
+               							[1948]<hi>"The "Chemical Corps [is]responsible for smoke and incendiary materials, toxic gases, chemical weapons, and equipment."</hi>Annual Report of the Secretary of the Army, 1948., p. 28-29.
+               						</item>
+               					</list>
+               				</def>
+               		</entry>	
+               		
+  			<entry>
+  				<form>
+  					<orth xml:id="ClassII">Class II activity</orth>
+  				</form>
+	  				<def>
+	  					[1953] "Military installations within the United States under the command of a chief of technical or administrative service, or a head of a General or Special Staff Office, United States Army." SR 320-5-1, Dictionary of United States Army Terms, 24 November 1953.
+	  				           Numerous organizations and bases were Class II organizaitons under the command to the Chiefs of the Technical Services. For example, the Army Ballistic Missile Agency which launched the first American satellite was a Class II agency under the command of the Chief of Ordnance as was Redstone Arsenal at Huntsville, AL, where it was based.
+	  				<ref target="#SR320-5-1_53">Special Regulations 320-5-1, Dictionary of United States Army Terms, 24 November 1953</ref>
+	  				</def>	
+  			</entry>
+               			
+               			<!-- QQQQQQQ                           X-REF the term          "Field Operating Agench"             Add an entry below for FOA          QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ
+               			        QQQQQQQ                           Reference AR310-25Dictioniary of United States Army Terms, 15 October 2983  Page 76     QQQQQQQQQQQQQQQQQQQQQQQQQQQQQ -->
+               			
+               		<entry>
+               			<form>
+               				<orth xml:id="OoE">Corps of Engineers</orth>
+               			</form>
+               			<def>
+               				The Corps of Engineers was one of the Technical Services.  The Chief of Engineers was the general in charge of the Corps of Engineers. The Office of the Chief of Engineers in Washington, DC,  was the headquarters of the Corps of Engineers.  In addition to its military functions, the Chief of Engineers supervised a number of civil works functions. 
+               				<list>
+               					<item>
+               						[1943] The mission of the Corps of Engineers was described as <hi>"[t]o assure the supply w the armed services .and International Aid of such
+equipment and supplies as are assigned to the Corps of Engineers for procurement, in such quantities and at such times as are required to meet the needs of the Army Supply Program, and to fulfill directives of higher authority; to train and furnish specialized engineer troops to Service Commands and units of the field forces; to acquire and dispose of real estate for the Army; to assure the proper execution of war construction projects and the adequate performance of repairs and utilities work for the Army. The major types of items procured by the Corps of Engineers are bridges (both floating and fixed), heavy construction equipment of all kinds, surveying and map reproduction equipment, camouflage materials (including nets, garnishing strips, and paint), antiaircraft searchlights, barrage balloons, airplane landing mats, demolition equipment and supplies, water purification and distributing equipment and supplies, firefighting equipment for posts, camps, and stations, maintenance equipment, such as mobile shops,
+etc., general construction equipment (such as carpenters', blacksmiths', and electricians' tools), field fortification supplies (such as barbed wire, sandbags, etc.), theater of operations construction materials and equipment, and gasoline and fuel oil distributing equipment."</hi> <ref target="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1001&#38;context=usarmyadmin">Service Forces Manual M301, 1943</ref>. p. 303.00.
+               						[1948]<hi>"The Corps of Engineers, responsible for the Army's construction work, including buildings, bridges, etc., surveying and map reproduction, camouflage, water purification and distribution, fire-fighting and demolition, and the improvement of waterways and flood control."</hi>Annual Report of the Secretary of the Army, 1948., p. 28-29.
+               					</item>
+               				</list>
+               			</def>
+               		</entry>	
+  			
+               		
+               		</div>
+
+               			<div>
+               			<head>G</head>   
+               				
+	  			<entry>
+	  				<form>
+	  					<orth>General Orders</orth>
+	  				</form>
+	  				<def>
+	  					[1943<hi>]" General orders will usually include matter of importance which is directive in nature, general in application, and of permanent duration,
+	not readily susceptible of immediate incorporation in established forms of regulations. General orders will contain the four parts common to all orders-heading, title, body, and authentication.<lb/>
+						The body of a general order may be broken into sections, in which case the sections will be numbered consecutively from one, using Roman numerals, and the paragraphs under each section numbered consecutively from one, using Arabic numerals. Each section should be concerned with only one subject."</hi>
+	  					<ref target="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1007&#38;context=usarmytrain"></ref>, p. 7.
+	  				</def>
+	  			</entry>
+  			
+  				<entry>
+					<form>
+						<orth>General Staff</orth>
+					</form>
+	  					<def>
+	  						<list>
+	  							<item>  						
+	  							[1944]<hi>"Group of officers in a division or larger unit who assist their commander in planning, coordinating, and executing operations. A general staff is usually divided into four sections: personnel (G1), military intelligence (G2), operations and training (G3), and supply and evacuation (G4)."</hi>  	<ref target="https://archive.org/details/TM20-205">TM20-205, 18Jan44</ref>, p.123. 	
+	  							</item>
+	  							<item>
+	  							[1948] <hi>"...a closely coordinated group of officers constituting the principal assistants and advisers to the Chief of Staff. The General Staff is responsible for the development of land forces of the United States, in accordance with policy established by the President with the aid of the Joint Chiefs of Staff, subject ot the authorizations of Congress. Under the present organization, the General Staff is set up with five divisions each headed by a director. [Plans and Operations, Personnel and Administration, Intelligence, Organization and Training, Logistics]...The former designations G-1, G-2, G-3, G-4, together with the titles of Assistant Chiefs of Staff for the respective "G" divisions were eliminated in 1946."</hi>				
+	  				<cit><ref target="#AnnualReportSecArmy_48">Annual Report of the Secretary of the Army, 1948, p. 327</ref></cit>.
+								</item>
+	  						</list>
+	  					</def>					
+				</entry>	
+			</div>
+
+               		<div>
+               			<head>M</head>  
+               				
+               			<entry>
+               				<form>
+               					<orth xml:id="MedDept">Medical Department</orth>
+               				</form>
+	               				<def>
+	               					The Medical Department was one of the Army Technical Service.  The Army Surgeon General was the commanding general of the Army Medical Department..  The headquarters of Army Medical Department was the Office of tthe Surgeon General, a large organization in Washington, DC. The Army Organization Act of 1950 renamed the Medical Department , the Army Medical Service.  The Army Medical Service was redesignated the Army Medical Department (abreviated AMEDD) on 4 June 1968.  
+	               				<list>
+	               					<item>[1943]The mission of the Medical Service was described as  <hi>"[t]o assure the proper physical selection of military personnel; to conserve
+military manpower through appropriate disease-preventive measures, adequate medical, surgical and dental treatment, and suitable hospitalization; to assure proper physical selection and
+professional care of military animals; to train and furnish specialized Medical Department t:roops to Service Commands and units of the field forces; to assure the supply to the Army of such
+equipment and supplies as are assigned to the Medical Department for procurement, in such quantities and at such times as are required to meet the Army Supply Program, and other directives of higher authority. The major types of items procured by the Medical Department are medical, dental, surgical, veterinary, hospital, and laboratory supplies, equipment and instruments, biologicals, drugs and chemicals, laboratory strains, X-ray machines and supplies, physiotherapy equipment, surgical appliances and dressings, and field medical equipment."</hi><ref target="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1001&#38;context=usarmyadmin">Service Forces Manual M301, 1943</ref>. p. 306.00.</item>
+	               					<item>[1948]<hi>:"[T]he Medical Department, responsible for the selection, health, medical treatment of military personnel, including the administration of Army hospitals, and which also maintains a veterinary service."</hi> Annual Report of the Secretary of the Army, 1948, p. 28-29.</item>
+	               				</list>
+               				</def>	
+               			</entry>	
+  			  		
+		  		<entry>
+		  			<form>
+		  				<orth>Memorandum (Memo)</orth>
+		  			</form>
+		  			<def>
+		  				<hi>"...routine order by the War Department, or a headquarters that gives directions, advice, or information. A memorandum is often issued instead of a bulletin or circular. Plural: memorandums or memoranda." </hi>
+		  				<cit><ref target="TM20-205_Jan44"><ref target="https://archive.org/details/TM20-205">TM20-205, 18Jan44</ref>, p. 169.</ref></cit>
+		  			</def>  			
+		  		</entry>
+		  		</div>
+
+               			<div>
+               			
+  				
+               	
+               	<div>
+               			<head>O</head>  
+               				
+               			<entry>
+               				<form>
+               					<orth xml:id="OrdDept">Ordnance Department</orth>
+               				</form>
+               				<def>
+               					The Ordnance Department was one of  the Technical Services.  The Chief of Ordnance was the head of the Ordnance Department.  The Office of the Chief of Ordnance was the headquarters of the Ordnance Department in Washington, DC.  The Army Oranization Act  changed the name of the Ordnance Departmente to the Ordnance Corps.    
+               					<list>
+               						<item>[1943] The mission of the Ordnance Department is described as <hi>"[t]o develop, design, procure, store, maintain for and supply to the Army such
+equipment and supplies as are assigned to the Ordnance Department for procurement, in such quantities and at such times as are required to meet the Army Supply Program and other directives of higher authority; and to train and furnish specialized ordnance troops to Service Commands and units of the field forces. The major types of items procured by the Ordnance Department are tanks, self-propelled mounts, motor combat and transport vehicles, artillery and its ammunition, small arms and their ammunition, bombs, grenades, pyrotechnics, mine equipment, spare parts, and other ordnance materiel and raw materials, ingredients, and facilities, including machine tools and other tools and equipment necessary for their production and maintenance."</hi> <ref target="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1001&#38;context=usarmyadmin">Service Forces Manual M301, 1943</ref> p. 303.00. </item>
+               						<item>[1948]<hi>"[T]he Ordnance Department, responsible for the development and procurement of tanks, combat and transport vehicles, artillery and small arms and their ammunition, bombs, grenades, pyrotechnics, and mine equipment"</hi>Annual Report of the Secretary of the Army, 1948, pp 28-29.</item>
+               					</list>
+               				</def>
+               			</entry>
+               		              			
+   		       </div>
+               	
+               		<div>
+               			<head>Q</head>  
+               				
+               			<entry>
+               				<form>
+               					<orth xml:id="QM_Corps">Quartermaster  Corps</orth>
+               				</form>
+               					<def>
+               					The Quartermaster Corps was one of the Technical Services.  The Quartermaster General was the head of the Quartermaster Corps. The Office of the Quartermaster General in Washington, DC, was the headquarters of the Quartermaster Corps.. 
+               					<list>
+               						<item>[1943] The Quartermaster Corps was described <hi>"[t]o assure the supply to the Army of equipment and supplies for which the Quartermaster General is responsible; to procure, store, and distribute such equipment and supplies in quantities and at such times as may be required to meet the Army Supply Program and other directives of higher authority; to provide Quartermaster items required for lend-lease supply; to insure proper training of Quartermaster troops furnished to Service Commands and units of the Army Ground Forces and Army Air Forces; to prescribe methods of operation for certain types of installations providing services connected with the maintenance of troops. Major items purchased by the Quartermaster General are subsistence, clothing, equipage, general supplies, liquid and solid fuels, lubricants, materials handling equipment, and items of a nonmilitary nature. Other responsibilities of the Quartermaster General include the direction of
+remount activities, formulation of policies for the operation of Military cemeteries, and the disposition of deceased personnel of the War Department. "</hi> <ref target="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1001&#38;context=usarmyadmin">Service Forces Manual M301, 1943</ref> p. 301.00. </item>
+               						<item>[1948]<hi>"[T]he Quartermaster Corps, responsible for the procurement of food, clothing, fuel, and other materials of a nonmilitary nature, and for conduction research in the fields of food and nonmilitary, supplies; also the burial of deceased military personnel, the maintenance of national cemeteries in the United States and abroad and the repatriation of deceased military personnel."</hi>Annual Report of the Secretary of the Army, 1948, pp 28-29.</item>
+               					</list>
+               				</def>
+               			</entry>
+               		              			
+   		      	 </div>
+               	
+               		<div>
+               			<head>S</head>
+               			
+               			<entry>
+               				<form>
+               					<orth xml:id="SigCorps">Signal  Corps</orth>
+               				</form>		
+               					<def>
+               					The Signal Corps was one of the Technical Services.  The Chief Signal Officer was the head of the Signal Corps. The Office of the Chief Signal Officer in Washington is the head of the 	Signal Corps. 
+               					<list>
+               						<item>[1943]The mission of the  Signal Corps was described as <hi>"[t]o meet the primary responsibility of the Signal Corps, as the communication agency of the Army, for military signal communication; to develop, procure, store, issue, and repair communication equipment and supplies in such quantities and at such times as- are required to meet the Army Supply Program; to install, maintain and operate communications systems of all types and wherever needed; to coordinate, integrate and standardize signal communication equipment, methods and procedures within the Army, with the Navy, and with friendly foreign powers; to train and furnish specialized signal troops and units to all requiring elements of the Army; to perform photographic work for Army Ground Forces, and Army Service Forces and such other photographic work for the Army as is assigned by the Army Pictorial Board, or other authority. The major items of equipment and supplies procured by the Signal Corps include radio communication equipment; electrical apparatus for radio direction and range finding; telephone, cable, telegraph, printing telegraph, and facsimile equipment; signal communication equipment for aircraft, for fixed airways systems, and air navigational aids; communication equipment for motorized armored forces and other ground forces, including parachute troops; sound recording, and interception, equipment; meteorological, photographic, V-Mail, fixed sea coast defense and command and fire control, and pigeon equipment; cryptographic, coding and cipher equipment, including secret inks and associated chemicals; and experimental, research, and special types of Signal Corps equipment. "</hi> p. 305.00. </item>
+               						<item>[1948]<hi>"[T]he Signal Corps, responsible for the installation, maintenance, and operation of Army communications systems, and for Army photographs and motion pictures; "</hi>Annual Report of the Secretary of the Army, 1948, pp 28-29.</item>
+               					</list>	
+               					</def>	
+               			</entry>	
+               		</div>
+               	
+               		<div>
+               			<head>T</head>               			
+               			<entry>
+  					<form>
+	  					<orth xml:id="TechSvcs">Technical Services</orth>
+	  				</form>
+  					<def>
+  					<list>
+  						<item>  							
+   						 Summary: The Army technical services were bureaus providing the Army with supplies, equipment, training, and services. Each was headed by a  general known as the  "chief" of the service. In 1962, the technical services were disbanded. Logistics, personnel, and training functions were reassigned. The offices of the chiefs of some were continued to provide services. The Surgeon General and the Chief of Engineers are the only ones which survive under their old titles. The corresponding branches classifications of soldiers were not abolished. For example, officers continue to be commissioned in the Quartermaster Corps although there is no Quartermaster General. </item> 																						<item>[1944] [singular] <hi>"One of the branches of the Army ... whose chief mission is the procurement and distribution of supplies needed by various units of the Army. Formerly called supply service."</hi> <ref target="https://archive.org/details/TM20-205">FM 20-205, 18 January 1944</ref>, p 279. </item>
+  						<item>
+    						[1948]<hi> "The seven technical services are the<lb/>
+Chemical Corps, responsible for smoke and incendiary materials, toxic gases, chemical weapons, and equipment;<lb/>
+the Medical Department, responsible for the selection, health, medical treatment of medical personnel, including the administration of Army hospitals, and which also maintains a veterinary service;><lb/>
+the Corps of Engineers, responsible for the Army's construction work, including buildings, bridges, etc., surveying and map reproduction, camouflage, water purification and distribution, fire-fighting and demolition, and the improvement of waterways and flood control;<lb/>
+the Quartermaster Corps, responsible for the procurement of food, clothing, fuel, and other materials of a nonmilitary nature, and for conduction research in the fields of food and nonmilitary, supplies; also the burial of deceased military personnel, the maintenance of national cemeteries in the United States and abroad and the repatriation of deceased military personnel;<lb/>
+the Signal Corps, responsible for the installation, maintenance, and operation of Army communications systems, and for Army photographs and motion pictures;
+the Ordnance Department, responsible for the development and procurement of tanks, combat and transport vehicles, artillery and small arms and their ammunition, bombs, grenades, pyrotechnics, and mine equipment; and<lb/>
+the Transportation Corps, responsible for marine, railway, and highway transportation of Army personnel and supplies, for the transportation of war dead under repatriation programs, and for Army ports of embarkation and debarkation."</hi><cit><ref target="#AnnualReportSecArmy_48">Annual Report of the Secretary of the Army, 1948, pp 28-29</ref></cit>. 
+  						</item>
+  					</list>
+  				</def>
+  		  	</entry>
+  	
+               	
+               		<entry>
+               				<form xml:id="TransCorps">
+               					<orth>Transportation corps</orth>
+               				</form>
+               				<def>
+	               				The Transportation Corps was one of the Technical Services. The Chief of Transportation was the general in charge of the Transportation Corps. The Office of the Chief of Transportation in Washington DC was the headquarters of the Transportation Corps.
+	               				<list>
+	               					<item>[1942] According to <ref target="https://history.army.mil/html/faq/branches/WD_GO_1942-38.pdf">War Department General Order 38, "Establishment of a Transportation Corps," 1942</ref>, the Chief of Transportation was responsible for "direction. supervision, and coordination of all transportation functions for the War Department, and with the operation of field instailations pertaining thereto."</item>
+	               					<item>[1943] The mission of the Transportation Corps was described as <hi>"[t]o direct, coordinate, and supervise all transportation functions for the War
+	Department, and operate the field instanations pertaining to these functions."</hi><ref target="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1001&#38;context=usarmyadmin">Service Forces Manual M301, 1943</ref> p. 307.00.</item>
+	               					<item>[1948] <hi>"[T]he Transportation Corps [is] responsible for marine, railway, and highway transportation of Army personnel and supplies, for the transportation of war dead under repatriation programs, and for Army ports of embarkation and debarkation."</hi> Page 28-29, Annual Report of the Secretary of the Army, 1948.</item>
+	               				</list>
+               				</def>	
+               			</entry>
+               		</div>	
+               		<div>
+               		</div>	
+               		</div>
+                      	 
+  		<!--
+  		QQQQQQQQQQQQQQQQQQQQQQQQQQQQ  BIBLIOGRAPHY  QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ	
+  		-->
+
+  		<div>
+  			<head>Bibliography</head>  			
+  				
+  				<div>
+					<head> Annual Report of the Secretary of the Army</head>
+ 	  						
+					<bibl xml:id="AnnualReportSecArmy_48l">
+						<title type="short">Annual Report of the Secretary of the Army, 1948.</title>
+						<title type="main">Annual Report of the Secretary of the Army, 1948</title>
+						 This report gives a detailed description of the newly reorganized Department of the Army. Including the Technical Services and the General Staff.<lb/>
+						Copies of this report were distributed through the Federal Depository Libraries Program.  
+						It should be avaialble under Superentendent of Documents Number:  M 101:1 plus the date. 	It should be readily available through InterLibrary Loan. 
+					</bibl>  	
+	  			</div>  					
+  							
+  				<div>
+					<head> Army Schools Texts</head>
+  			
+	  				<bibl xml:id="AG_school_pam1_6thEd">
+	  					<title type="short">Orders, 6th Edition, March 26, 1943</title>
+	  					<title type="main">
+	  						The Adjutant General's School, Instructional Pamphlet 1, Orders: General Orders, Special Orders, Bulletins, Circulars. 6th Edition. March 26, 1943. 
+	  					</title>
+	  					 This is a basic text for teach recruits to the Adjutant General's  Corps, the purpose, structure, and administrative procedures for the various types of orders.
+	  					<ref target="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1007&#38;context=usarmytrain">Orders, 6th Edition, March 26, 1943</ref> is available online in the UNL Digital Commons.
+	  				</bibl>
+  					
+  					<bibl xml:id="ST_8-30-1_51">
+  						<title type="short">ST 8-30-1, Medical Intelligence, 1951</title>
+  						<title type="main">
+  							Special Text, ST 8-30-1, Medical Intelligence, 1951. 
+  						</title>
+  							<ref target="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1058&#38;context=dodmilintel">ST 8-30-1, Medical Intelligence, 1951</ref> is available online in the UNL Dtital Commons.
+  					</bibl>	
+  				</div>
+  			
+  				<div>
+  					<head>Army Service Forces Publications</head>	
+  					
+  					<bibl xml:id="ASFM_M301_43" >
+  						<title type="short">Service Forces Manual M301, 1943</title>
+  						<title>
+  							Service Forces Manual M301, Army Services Forces Manual, July 1943. 
+  						</title>
+  						This is a detailed description of the organization and functions fo the ASF and its component parts including the Army Technical Service.<lb/>
+						<ref target="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1001&#38;context=usarmyadmin">Service Forces Manual M301, 1943</ref> is available online in the UNL Digital Commons.
+  					</bibl>	
+  				</div>
+  			
+  					<div>
+  			            		<head>Attorney General's Letter</head>
+  			
+	  				<bibl xml:id="AGO_ltr_9-6-40_AG321.19M.I.D.l">
+	  					<title type="short">Adjutant General's Letter, Sept. 6, 1940</title>
+	  					<title type="main">
+	  						Adjutant General's Office Letter entitled: "Intelligence Sections in the Offices of Chiefs of Arms and Services," September 6, 1940. 
+	  					</title>
+	  					This letter instructed the commanding generals of a number of organizations including the Technical services to estableish intelligence sections in the their offices and to begin participating the the production of intelligence concerning technical matters.  That letter was a critical milestone in the history of Army technical intelligence because it was the charter of a numbrer of early technical intelligence agencies. <lb/>
+	  					<ref target="https://https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1163&#38;context=usarmyresearch"> Adjutant General's Letter, Sept. 6, 1940</ref> is available online in the UNL Digital Commons.
+	  				</bibl>
+  			 		
+  			            	</div>  
+  			
+  			
+  			<!-- QQQQQQQQQQQQQQQQ  Add entries for General Orders here QQQQQQQQQQQQQQQQQQQQ -->
+  			
+  			
+  				<div>
+					<head>General Orders</head>
+  					
+  					<p> Note on Scholarly Practice:  General Orders are numbered serially in a given year.  To identify a given order precisely, you must name the headquarters issuing the order, the order number, and the year.  For example, WD GO 46, 1942, clearly identifies <ref target="https://history.army.mil/html/faq/branches/WD_GO_1942-38.pdf">War Department General Order 46, 1942.</ref>  A General Order may address a single topic and have a title.   WD GO 46, 1942, is titled "Establishment of a Transportation Corps."  If a general order addresses multiple subjects, each subject will be contained in a seperate section numbered with Roman numerals.  Each section will have a title.   For example, <ref target="https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/go6257.pdf">DA GO 57, 1962</ref>, contains 15 sections.  Section VIII was titled, "US Army Foreign Science and Technology Center."</p>
+ 	  				  			
+	  			  	<bibl xml:id="GO39_1949">
+	  			  		<title type="short">DA GO 39, 18 August, 1949</title>
+	  			  		<title type="main">Department of the Army General Orders  39, 18 August 1949, Section IV,, "Signal Corps Intelligence Agency,"</title>
+	  			  		<ref target="https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/go4939.pdf">DA GO 39,  1949</ref> is available online from the Army Publishing Directorate..
+	  			  	</bibl>
+  					
+  					<bibl xml:id="GO22_1955">
+	  			  		<title type="short">DA GO 22, 1955</title>
+	  			  		<title type="main">Department of the Army General Orders  55, 16 March 1955, Section I, "Quartermaster Intelligence Agency,"</title>
+	  			  		<ref target="https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/go5522.pdf">DA GO 22,  1955</ref> is available online from the Army Publishing Directorate..
+	  			  	</bibl>
+  					
+  					<bibl xml:id="GO27_1955">
+	  			  		<title type="short">DA GO 27, 1955</title>
+	  			  		<title type="main">Department of the Army General Orders 27, 15 April 1955, Section II, "Chemical Corps Intelligence Agency,"</title>
+	  			  		<ref target="https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/go5527.pdf">DA GO 27,  1955</ref> is available online from the Army Publishing Directorate..
+	  			  	</bibl>
+  					
+  					
+  					<bibl xml:id="GO5_1957">
+	  			  		<title type="short">DA GO 5, 1957</title>
+	  			  		<title type="main">Department of the Army General Orders  5, 31 January1957, Section I, "Redesignatioin of Signal Corps Activities"</title>
+  						<note>This order changes the name of the "Signal Corps Intelligence Agency" in Washinton, DC, to "US Army Signal Intelligence Agency."</note>
+	  			  		<ref target="https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/go5705.pdf">DA GO 5, 1957 </ref> is available online from the Army Publishing Directorate..
+	  			  	</bibl>
+ 					
+  					
+  					<bibl xml:id="GO39_1958">
+  						<title type="short">DA GO 14, 1958</title>
+  						<title type="main">Department of the Army General Orders 15, 29 Arpril 1958, Section II, "US Army Signal intelligence Service, Arlington Hall Station" </title>
+  					            <note> That section of DA GO 14, 1958,  announced the relocation of the US Army Signal Intelligence Agency to Arlington Hall Station, an army base just south of the District of Columbia. </note>
+  					            <ref target="https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/go5814.pdf"> DA GO 14, 1958 </ref> is available online from the Army Publishing Directorate. 		
+  					</bibl>
+  						
+  					<bibl xml:id="ODO327_42">
+  						<title type="short">Ord Dept Order 327, 1942</title>
+  						<title type="main">Ordnance Department Order 327,  "Procedure for handling Ordnance Materiel Received in This Country for Information," 19 August 1942</title>
+  						<ref target="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1056&#38;context=dodmilintel">Ord Dept Order 327, 1942 </ref> is  available online in the UNL Digital Commons. 
+  					</bibl>	
+  						
+  						  					  	  					
+  					<bibl xml:id="WRAMC_GO62_56">
+	  			  		<title type="short">WARMC GO 62, 1956</title>
+	  			  		<title type="main">Walter Reed Army Medical Center G0 62, "Medical Information and Intelligence Agency," 24 September 1956</title>
+	  			  		<ref target="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1166&#38;context=usarmyresearch">WARMC GO 62, 1956</ref> is available online from the UNL Digital Commons.
+	  			  	</bibl>
+  					
+  					<bibl xml:id="GO38_1942">
+	  			  		<title type="short">WD GO 38, 1942</title>
+	  			  		<title type="main">War Department General Orders 38, "Establishment of a Transportation Corps," 31 July t942.</title>
+	  			 		<ref target="https://history.army.mil/html/faq/branches/WD_GO_1942-38.pdf">WD GO 38,  1942</ref> is available online from the US Army Center of Military History. 
+	  			  	</bibl>
+	  			
+	  			</div>  					
+  							
+  				<div>
+					<head>Field Manuals</head>
+ 	  				  						
+	  				<bibl xml:id="FM21-6_1Sept41">
+	  					<title type="short">FM  21-6, September 1, 1941</title>
+	  					<title type="main">Field Manual 21-6. List of Publications for Training, September 1, 1941.</title>
+	  					This bibliography gives definitions of the various types of publications listed.
+	  	<ref target="http://www.ibiblio.org/hyperwar/NHC/NewPDFs/USArmy/US%20Army%20Field%20Manuals/USArmy,%20Basic%20FM%20List%20of%20Publications%20for%20Training%20FM%2021-6%201941-09-01.pdf">FM 21-6, September 1, 1941</ref> is available onling in the ibiblio collection. 
+	  				</bibl>
+	  			
+							  						
+	  			
+	  				<bibl xml:id="ODO327_19Aug1942">
+	  					<title type="short">Ordnance Department Order 327, August 19, 1942</title>
+	  					<title type="main">Ordnance Department Order 327, Procedure for handling Ordnance Materiel Received in this Country for Information, August 19, 1942.</title>
+	  					This order gave instructions to the Ordnance Intelligence Unit, Technical Division, Office of the Chief of Ordnance and Aberdeen Proving Grounds for handling foreign materiel received from the various theaters of war.		
+	  					<ref target="//https:digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1056&#38;context=dodmilintel">Ordnance Department Order 327, August 19, 1942</ref> is svailable online in the UNL Digital  Commons.					
+	  				</bibl>
+  				</div>	
+	  							
+  				<div>
+					<head>Special Regulations</head>
+ 	  				  					  			
+	  				<bibl xml:id="SR320-5-1_53"> 
+	  					<title type="short">SR 320-5-1, 24  Nov 53</title>
+	  					<title type="main">Special Regulations 320-5-1, Dictionary of United States Army Terms, 24 November 1953</title>			
+						Copies of this dictionary were distributed through the Federal Depository Libraries Program. 
+						It should be avaialble under Superentendent of Documents Number:  D 101.10:320-5-1/2.
+						It should be readily available through InterLibrary Loan. 
+	  				</bibl>
+  				</div>	
+  				<div>
+					<head>Technical Manuals</head>
+ 	  				  				
+	  				<bibl xml:id="TM20-205_Jan44">
+	  					<title type="short">TM 20-205, 18 Jan 1944.</title>
+	  					<title type="main">
+	  						Technical Manual 20-205, Dictionary of United States Army Terms, 18 January 1944. 
+	  					</title>
+	  					This is a lengthy, detailed dictioinary.<lb/>	  				
+	  					<ref target="https://archive.org/details/TM20-205">TM 20-205, 18 January 1944</ref> is available online in the Internet Archive.	  					
+	  				</bibl>
+	  			</div>  
+  					
+  				<div>
+  					<head>Technical Services Publications</head>
+  					
+  					<bibl xml:id="History_BOERH_80">
+  						<title type="short">A History of the Board of Engineers for Rivers and Harbors, 1980</title>
+  						<title type="main">
+  							A History of the Board of Engineers for Rivers and Harbors, Army Corps of Engineers, June 1980.
+  						</title>
+  						The Board of Engineers for Rivers and Harbors was a civil work agency of the Corps of Engineers concerned with port and harbor facilities.<lb/>
+  						The section on the "Foreign Ports Branch" on page 126 describes an intelligence branch established in the Board of Engineers for Rivers and Harbors in 1942 to gather information and prepare<hi> "military reports for use in staff planning for ports and terminal facilities in foreign ports."</hi> p. 20.  						
+  						The Foreign Ports Branch continued to produce reports and maps following the war.  				
+  						<ref target="https://usace.contentdm.oclc.org/digital/collection/p16021coll4/id/32">A History of the Board of Engineers for Rivers and Harbors, Army Corps of Engineers</ref> is available online from the Corps of Engineers Digital Library.
+  					</bibl>
+  					
+  					<bibl xml:id="MR77-9">
+  						<title type="short">The History of the Beach Erosion Board ... 1930-63</title>
+  						<title type="main">The History of the Beach Erosion Board, U.S. Army, Corps of Engineers, 1930-63 by Mary-Louise Quinn, Miscellaneojus Report No. MR 77-9,august 1977, Coastal Engineerinvg Research Center, Corps of Engineers.</title>
+  						The Beach Erosion Board (BEB) was a part of the Civil Works program of the Corps of Engineers. It was cereatred in 1930 and absorbed into the Costal Engineering Research Center in 1963. From 1942 until 1962, the BEB gathered intelligence on beaches in foreign countries the United States armed forces were interested in prepared military intelligence on information and reports on those beaches. This is a thorough history on the civil and military intelligence work of the BEB.
+  					  	<ref target="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1027&#38;context=watercenterpubs">The History of the Beach Erosion Board ... 1930-63 </ref> is available online from the UNL Digital Common.			
+  					</bibl>
+  					
+  					<bibl xml:id="SCTI-49">
+  						<title type="short">Signal Corps Techntel Intelligence: a Brief History, Chester Hall</title>
+  						<title type="main">
+  							Chester A. Hall, Jr. Signal Corps Technical Intelligence: a Brief History, 1940-1948.  Camp Gordon, GA:  Signal Corps Traning Center, 1949.
+  						</title>
+  					<note>This is a thorough history of WWII and early post-war Signal Corps Technical Intelligence. It describes the creation of the SC technical intelligence section in the Office of the Surgeon General and World War II technical intelligence activities.  When US national intelligence was reogranized and the Central Intelligence Agency was established, the National Intelligence Survey was created as a means of organizing strategic intelligence. Since there was no organization capable of providing strategic intelligence about communications and electrical systems, Signal Corps Technical Intelligence was assigned to assemble information and provide information for the NIS. The size of the staff was increased accordingly.</note>
+					<note>
+						<ref target="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1064&#38;context=dodmilintel">Signal Corps Techntel Intelligence: a Brief History, Chester Hall</ref> is available online from the UNLDigital Commons.
+					</note>  
+  					</bibl>
+  				</div>	
+  					
+	  			<div>
+					<head>Training Circulars</head>
+ 	  			
+	  				<bibl xml:id="TC81_42">
+	  					<title type="short">
+	  						TC 81, 6 Nov 1942, Section II  					
+	  					</title>
+	  					<title type="main">
+	  						Training Circular 81, 6 November 1942, Section II, "Processing of captured materiel for intelligence purposes
+	  					</title>
+	  					<note type="annotation">  Pending the revision of Field Manual 30-15, 22 July 40 and other manuals <hi>"...the following procedure is outlined for the guidance of all concerned with a view to the maximum exploitation of intelligence that can be derived from captured materiel..."</hi> Among other things, the technical services were instructed to prepare an <hi>"operator's Technical Manual, similar in form and content to our own"</hi> for captured equipment. The number of the technical manual was to "be the same as the nearest like item of American issue with the letter "E" preceding the number." That resulted in the publication of a number of technical manuals like TM E9-369A, German 88-mm Antiaircraft Gun Materiel, 29 June 43 and TM E9-803, German Volkswagen, 6 June 1944, which are listed in FM 21-6, List and Index of War Department Publications, 10 May 45.
+	  					</note>
+	  					<note>
+	  						This TC was modified by TC 100, 5 Dec 42 which provided for protecting captured or crashed enemy aircraft.					
+	  						This TC was augmented by War Department Memorandum W570-1-43, 7 April 43 which provided for the "Shipment of Captured Materiel to the United States."
+	  					</note>					
+						<ref target="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1170&#38;context=usarmyresearch">TC 81, 6 Nov 1942, Section II </ref> is available online in the UNL Digital Commons.
+					</bibl>
+	  			</div>
+  					
+  				<div>
+					<head>War Department Circulars</head>
+ 	  			  			 				
+	  				<bibl xml:id="Cir_13_11Jan45">
+	  					<title type="short">WD Cir 13, 11 January 1945</title>
+	  					<title type="main">
+	  						War Department Circular 13, Shipment of Captured Materiel to the United States for Intelligence Purposes, 11 January.1945.
+	  					 </title>
+	  					<note>This circular rescended Cir QQQQQQ304, 1944. </note>
+	  					<!-- Add a link above  -->
+	  					<note>This is one of a series of documents giving more and more detailed instructions issued during World War II. The circular gives instructions concerning the types of materiel neaded and procedures for shipping it to the United States. </note>
+	  					<note>
+	  						<ref target="https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1171&#38;context=usarmyresearch">Available online in the UNL Digital Commons</ref>
+	  					</note>
+	  				</bibl>
+	  			</div>
+  					
+  				<div>
+					<head>War Department Memoranda</head>
+	  			
+	  			            <bibl xml:id="W570-1-42">
+	  					<title type="short">WD Memo W570-1-42, October 23, 1942.</title>
+	  					<title type="main">
+	  						War Department Memorandum No. W570-1-42, Shipment of Captured Materiel to the United States, October 23, 1942.
+	  					</title>
+	  					<note type="annotation">
+	  						This directive was intended to facilitate the prompt and effective shipment of captured weapons and materiel to the United States.
+	  					</note>
+	  					<note>
+							 <ref target="https://digitalcommons.unl.edu/dodmilintel/114/">WD Memo W570-1-42, October 23, 1942</ref> is available online in the UNL Digital Commons.	
+						</note>					
+	  				</bibl>
+	    			            		
+	  				<bibl xml:id="W570-1-43">
+	  					<title type="short">WD Memo. W570-1-43, April 7, 1943</title>
+						<title type="main">War Department Menorandum No. W570-1-43, Shipment of Captured Materiel to the United States, April 7, 1943.</title>
+	  					<note>This memo superceded W570-1-42.</note>
+	  					
+	  					</bibl>
+  			
+  				</div>	
+  			</div>
+               	
+  			<div>
+  				<!-- QQQQQQQQQQQQQQQQQQQQQQQQPlace to park HOVER notes QQQQQQQQQQQQQQQQQQQQQQQQ-->
+  				
+  <!--A  -->				
+  		<note type="hover" xml:id="adjutant">The adjutant of an army organization or unit is the chief administrative officer of the organization.  The adjutant's signature is required to authenticate orders and other official document..</note>	
+  				
+  <!--C  -->				
+ 		 <note type="hover" xml:id="Chief_of_Ordnance">The Chief of Ordnance was the general officer in charge of the Ordnance Department in the Department of War. </note>	
+			
+  		<note type="hover" xml:id="Cir">A circular is a type of order, specifically an "Official publication that usually contains information of a general but temporary nature." </note> 				
+  				
+  <!--G  -->				
+		<note type="hover" xml:id="DA_GO">" General orders will usually include matter of importance which is directive in nature, general in application, and of permanent duration..."</note>   	
+  				
+  <!--M  -->				
+  		<note type="hover" xml:id="Memo">A memorandum is a "routine order by the War Department, or a headquarters that gives directions, advice, or information. A memorandum is often issued instead of a bulletin or circular. Plural: memorandums or memoranda."</note>   
+		
+			
+  		<note type="hover" xml:id="memo" >A memorandum is a "routine order by the War Department, or a headquarters that gives directions, advice, or information. A memorandum is often issued instead of a bulletin or circular. Plural: memorandums or memoranda." TM 20-205, 18 Jan 44.</note> 	 				
+
+  <!--O  -->				
+  		<note type="hover" xml:id="Office_of_the_Chief">
+Each of the Supply Arms and Services was headed by a general officer with a headquarters in Washington, DC. Those headquarters were called the Office of the Chief.  For example, the headquarters of the Ordnance Department was known as the Office of the Chief of Ordnance.</note>	
+				
+		  <note type="hover" xml:id="OTSG">The Office of the Surgeon General is the headquarters of the Army Medical Service which is located in Washington, DC, and is commanded by the Surgeon General of the Army</note>	
+  
+  
+  <!--T  -->				
+  		<note type="hover" xml:id="TC">
+				<list>
+					<item>"The purpose of training circular.s is to promulgate new doctrine for test; to issue minor changes to Field Manuals and Technical Manuals, or other training literature; and to disseminate War Department training policies from time to time." <ref target="http://www.ibiblio.org/hyperwar/NHC/NewPDFs/USArmy/US%20Army%20Field%20Manuals/USArmy,%20Basic%20FM%20List%20of%20Publications%20for%20Training%20FM%2021-6%201941-09-01.pdf">FM 21-6, September 1, 1941</ref>, p. 5.</item>
+	   				<item> Training circulars were issued to promulgate:<lb/>   									
+	    						(1) New training doctrine. <lb/>										
+	    						(2) Training doctrine, tactics, or techniques, the immediate dissemination of which is essential.<lb/>
+	   						(3) Training policies or information of a temporary nature..<lb/>
+	    								Training circulars were numbered consecutively for each calendar year. <lb/>.
+<ref target="http://www.ibiblio.org/hyperwar/NHC/NewPDFs/USArmy/US%20Army%20Field%20Manuals/USArmy,%20Basic%20FM%20List%20of%20Publications%20for%20Training%20FM%2021-6%201941-09-01.pdf">FM 21-6, September 1, 1941</ref>, p. 7 and p. 10. 
+	```				</item>		
+				</list>	
+  		</note>
+  				
+  <!-- Q -->	
+  		<note type="hover" xml:id="QMG">The Quartermaster General was the chief of the Quartermaster Corps.</note>		
+ 				
+  				
+  				
+  			</div>	             	
+               	
+               	
+  	</back>
+  </text>
+</TEI>
+
+
